@@ -13,3 +13,5 @@ This repo contains the implementation of the paper:
 - SciPy
 - Pillow
 - tqdm
+- einops
+- Pytorch3d
