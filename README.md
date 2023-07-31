@@ -5,10 +5,10 @@ This repo contains the implementation of the paper:
 
 
 ## Requirements
-- Python 3
-- PyTorch 1.6
-- Open3d >=0.8
-- TensorBoard 2.3
+- Python 3.7
+- PyTorch 1.7
+- Open3d 
+- TensorBoard
 - NumPy
 - SciPy
 - Pillow
